@@ -31,3 +31,6 @@ DiscorIT adalah sebuah aplikasi chatting yang terdiri dari tiga komponen utama: 
     ./monitor <username> -channel <channel_name> -room <room_name>
 
 # Penjelasan Struktur File
+
+![strukturfile](struktur/file.jpg)
+
