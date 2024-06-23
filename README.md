@@ -32,5 +32,5 @@ DiscorIT adalah sebuah aplikasi chatting yang terdiri dari tiga komponen utama: 
 
 # Penjelasan Struktur File
 
-![strukturfile](struktur/file.jpg)
+![Struktur File](struktur/file.jpg)
 
