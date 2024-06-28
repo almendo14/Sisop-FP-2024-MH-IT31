@@ -61,7 +61,7 @@ Dengan revisi ini, masalah koneksi pada bagian server telah terselesaikan.
 Changelog
 [28/06/2024]: Server yang belum dapat terhubung sekarang sudah terhubung dengan client.
 
-(/fpsisop.jpg)
+![Fp sisop](fpsisop.jpg)
 
 
 
